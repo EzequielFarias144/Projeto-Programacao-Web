@@ -12,7 +12,7 @@ const pool = new Pool({
     port: 5432,
     database: 'atendimentos_db',
     user: 'postgres',
-    password: 'sua_senha',
+    password: 'coragem',
 });
 
 // Middlewares
